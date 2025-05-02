@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1745933304 source:c:\users\ismai\onedrive\bureau\jeu\main.cpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<string>
+	<array>
+	<fstream>
+	<map>
+	<cmath>
+
